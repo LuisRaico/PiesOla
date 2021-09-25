@@ -3,6 +3,8 @@
 @{
     ViewData["Title"] = "Registrarse";
 }
+<body style="background: #58d410; text-align: center; "  >
+    
 
 <h1>@ViewData["Title"]</h1>
 
@@ -13,7 +15,7 @@
             <hr />
             <div asp-validation-summary="All" class="text-danger"></div>
             <div class="form-group">
-                <label asp-for="Input.Email"></label>
+                <label asp-for="Input.Email" class=""></label>
                 <input asp-for="Input.Email" class="form-control" />
                 <span asp-validation-for="Input.Email" class="text-danger"></span>
             </div>
@@ -67,3 +69,4 @@
 @section Scripts {
     <partial name="_ValidationScriptsPartial" />
 }
+</body>
