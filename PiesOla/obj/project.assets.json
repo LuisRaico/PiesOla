@@ -7646,7 +7646,11 @@
       "code": "Undefined",
       "level": "Warning",
       "warningLevel": 1,
+<<<<<<< HEAD
       "message": "Problema al leer el archivo de caché H:\\visual studio\\programacion 1\\PiesOla\\PiesOla\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+=======
+      "message": "Problema al leer el archivo de caché C:\\programacion1\\PiesOla\\PiesOla\\PiesOla\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+>>>>>>> fe36f93bde9628b00c7fe5a84306b9d6e2928c1f
     }
   ]
 }

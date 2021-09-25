@@ -36,6 +36,7 @@ C:\programacion1\PiesOla\PiesOla\PiesOla\bin\Debug\net5.0\Microsoft.AspNetCore.I
 C:\programacion1\PiesOla\PiesOla\PiesOla\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
 C:\programacion1\PiesOla\PiesOla\PiesOla\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
 C:\programacion1\PiesOla\PiesOla\PiesOla\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+>>>>>>> fe36f93bde9628b00c7fe5a84306b9d6e2928c1f
 C:\programacion1\PiesOla\PiesOla\PiesOla\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
 C:\programacion1\PiesOla\PiesOla\PiesOla\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
 C:\programacion1\PiesOla\PiesOla\PiesOla\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
@@ -359,3 +360,4 @@ C:\programacion1\PiesOla\PiesOla\PiesOla\obj\Debug\net5.0\Razor\Areas\Identity\P
 C:\programacion1\PiesOla\PiesOla\PiesOla\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
 C:\programacion1\PiesOla\PiesOla\PiesOla\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
 H:\visual studio\programacion 1\PiesOla\PiesOla\obj\Debug\net5.0\Razor\Views\Nosotros\Index.cshtml.g.cs
+>>>>>>> 69322b33f9e96c0ef8c8c818f4d0d106357f6585
