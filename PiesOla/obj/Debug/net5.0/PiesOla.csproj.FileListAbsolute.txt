@@ -80,3 +80,4 @@ C:\programacion1\PiesOla\PiesOla\PiesOla\obj\Debug\net5.0\PiesOla.dll
 C:\programacion1\PiesOla\PiesOla\PiesOla\obj\Debug\net5.0\ref\PiesOla.dll
 C:\programacion1\PiesOla\PiesOla\PiesOla\obj\Debug\net5.0\PiesOla.pdb
 C:\programacion1\PiesOla\PiesOla\PiesOla\obj\Debug\net5.0\PiesOla.genruntimeconfig.cache
+C:\programacion1\PiesOla\PiesOla\PiesOla\obj\Debug\net5.0\Razor\Views\Nosotros\Index.cshtml.g.cs
