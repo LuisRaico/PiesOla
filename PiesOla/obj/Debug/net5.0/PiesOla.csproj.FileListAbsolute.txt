@@ -4,8 +4,6 @@ H:\visual studio\programacion 1\PiesOla\PiesOla\bin\Debug\net5.0\appsettings.jso
 H:\visual studio\programacion 1\PiesOla\PiesOla\bin\Debug\net5.0\PiesOla.StaticWebAssets.xml
 H:\visual studio\programacion 1\PiesOla\PiesOla\bin\Debug\net5.0\app.db
 =======
-<<<<<<< HEAD
-=======
 C:\programacion1\PiesOla\PiesOla\PiesOla\obj\Debug\net5.0\PiesOla.csproj.AssemblyReference.cache
 C:\programacion1\PiesOla\PiesOla\PiesOla\obj\Debug\net5.0\PiesOla.GeneratedMSBuildEditorConfig.editorconfig
 C:\programacion1\PiesOla\PiesOla\PiesOla\obj\Debug\net5.0\PiesOla.AssemblyInfoInputs.cache
@@ -36,16 +34,12 @@ C:\programacion1\PiesOla\PiesOla\PiesOla\bin\Debug\net5.0\Microsoft.AspNetCore.D
 C:\programacion1\PiesOla\PiesOla\PiesOla\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 C:\programacion1\PiesOla\PiesOla\PiesOla\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
 C:\programacion1\PiesOla\PiesOla\PiesOla\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
-<<<<<<< HEAD
 C:\programacion1\PiesOla\PiesOla\PiesOla\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
 C:\programacion1\PiesOla\PiesOla\PiesOla\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
-=======
->>>>>>> Confirmacion-User
 C:\programacion1\PiesOla\PiesOla\PiesOla\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
 C:\programacion1\PiesOla\PiesOla\PiesOla\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
 C:\programacion1\PiesOla\PiesOla\PiesOla\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
 C:\programacion1\PiesOla\PiesOla\PiesOla\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
-<<<<<<< HEAD
 C:\programacion1\PiesOla\PiesOla\PiesOla\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
 C:\programacion1\PiesOla\PiesOla\PiesOla\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
 C:\programacion1\PiesOla\PiesOla\PiesOla\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
@@ -70,22 +64,6 @@ C:\programacion1\PiesOla\PiesOla\PiesOla\bin\Debug\net5.0\runtimes\win-arm\nativ
 C:\programacion1\PiesOla\PiesOla\PiesOla\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
 C:\programacion1\PiesOla\PiesOla\PiesOla\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
 C:\programacion1\PiesOla\PiesOla\PiesOla\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
-C:\programacion1\PiesOla\PiesOla\PiesOla\obj\Debug\net5.0\PiesOla.csproj.AssemblyReference.cache
-C:\programacion1\PiesOla\PiesOla\PiesOla\obj\Debug\net5.0\PiesOla.GeneratedMSBuildEditorConfig.editorconfig
-C:\programacion1\PiesOla\PiesOla\PiesOla\obj\Debug\net5.0\PiesOla.AssemblyInfoInputs.cache
-C:\programacion1\PiesOla\PiesOla\PiesOla\obj\Debug\net5.0\PiesOla.AssemblyInfo.cs
-C:\programacion1\PiesOla\PiesOla\PiesOla\obj\Debug\net5.0\PiesOla.csproj.CoreCompileInputs.cache
-C:\programacion1\PiesOla\PiesOla\PiesOla\obj\Debug\net5.0\PiesOla.MvcApplicationPartsAssemblyInfo.cs
-C:\programacion1\PiesOla\PiesOla\PiesOla\obj\Debug\net5.0\PiesOla.MvcApplicationPartsAssemblyInfo.cache
-C:\programacion1\PiesOla\PiesOla\PiesOla\obj\Debug\net5.0\PiesOla.RazorAssemblyInfo.cache
-C:\programacion1\PiesOla\PiesOla\PiesOla\obj\Debug\net5.0\PiesOla.RazorAssemblyInfo.cs
-=======
-C:\programacion1\PiesOla\PiesOla\PiesOla\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
-C:\programacion1\PiesOla\PiesOla\PiesOla\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
-C:\programacion1\PiesOla\PiesOla\PiesOla\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
-C:\programacion1\PiesOla\PiesOla\PiesOla\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
-C:\programacion1\PiesOla\PiesOla\PiesOla\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
->>>>>>> Confirmacion-User
 C:\programacion1\PiesOla\PiesOla\PiesOla\obj\Debug\net5.0\staticwebassets\PiesOla.StaticWebAssets.Manifest.cache
 C:\programacion1\PiesOla\PiesOla\PiesOla\obj\Debug\net5.0\staticwebassets\PiesOla.StaticWebAssets.xml
 C:\programacion1\PiesOla\PiesOla\PiesOla\obj\Debug\net5.0\scopedcss\bundle\PiesOla.styles.css
@@ -109,9 +87,7 @@ C:\programacion1\PiesOla\PiesOla\PiesOla\obj\Debug\net5.0\PiesOla.dll
 C:\programacion1\PiesOla\PiesOla\PiesOla\obj\Debug\net5.0\ref\PiesOla.dll
 C:\programacion1\PiesOla\PiesOla\PiesOla\obj\Debug\net5.0\PiesOla.pdb
 C:\programacion1\PiesOla\PiesOla\PiesOla\obj\Debug\net5.0\PiesOla.genruntimeconfig.cache
-<<<<<<< HEAD
 C:\programacion1\PiesOla\PiesOla\PiesOla\obj\Debug\net5.0\Razor\Views\Nosotros\Index.cshtml.g.cs
-=======
 H:\visual studio\programacion 1\PiesOla\PiesOla\obj\Debug\net5.0\PiesOla.csproj.AssemblyReference.cache
 H:\visual studio\programacion 1\PiesOla\PiesOla\obj\Debug\net5.0\PiesOla.GeneratedMSBuildEditorConfig.editorconfig
 H:\visual studio\programacion 1\PiesOla\PiesOla\obj\Debug\net5.0\PiesOla.AssemblyInfoInputs.cache
@@ -124,10 +100,6 @@ H:\visual studio\programacion 1\PiesOla\PiesOla\obj\Debug\net5.0\PiesOla.RazorAs
 H:\visual studio\programacion 1\PiesOla\PiesOla\obj\Debug\net5.0\PiesOla.dll
 H:\visual studio\programacion 1\PiesOla\PiesOla\obj\Debug\net5.0\ref\PiesOla.dll
 H:\visual studio\programacion 1\PiesOla\PiesOla\obj\Debug\net5.0\PiesOla.pdb
-H:\visual studio\programacion 1\PiesOla\PiesOla\bin\Debug\net5.0\appsettings.Development.json
-H:\visual studio\programacion 1\PiesOla\PiesOla\bin\Debug\net5.0\appsettings.json
-H:\visual studio\programacion 1\PiesOla\PiesOla\bin\Debug\net5.0\app.db
-H:\visual studio\programacion 1\PiesOla\PiesOla\bin\Debug\net5.0\PiesOla.StaticWebAssets.xml
 >>>>>>> fd85ac4edece4c19c1eb24653db83cb3c0f43cb5
 H:\visual studio\programacion 1\PiesOla\PiesOla\bin\Debug\net5.0\PiesOla.exe
 H:\visual studio\programacion 1\PiesOla\PiesOla\bin\Debug\net5.0\PiesOla.deps.json
@@ -145,10 +117,6 @@ H:\visual studio\programacion 1\PiesOla\PiesOla\bin\Debug\net5.0\Microsoft.AspNe
 H:\visual studio\programacion 1\PiesOla\PiesOla\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 H:\visual studio\programacion 1\PiesOla\PiesOla\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
 H:\visual studio\programacion 1\PiesOla\PiesOla\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
-<<<<<<< HEAD
-H:\visual studio\programacion 1\PiesOla\PiesOla\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
-H:\visual studio\programacion 1\PiesOla\PiesOla\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
-=======
 H:\visual studio\programacion 1\PiesOla\PiesOla\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
 H:\visual studio\programacion 1\PiesOla\PiesOla\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
 H:\visual studio\programacion 1\PiesOla\PiesOla\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
@@ -157,51 +125,16 @@ H:\visual studio\programacion 1\PiesOla\PiesOla\bin\Debug\net5.0\Microsoft.CodeA
 H:\visual studio\programacion 1\PiesOla\PiesOla\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
 H:\visual studio\programacion 1\PiesOla\PiesOla\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
 H:\visual studio\programacion 1\PiesOla\PiesOla\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
->>>>>>> fd85ac4edece4c19c1eb24653db83cb3c0f43cb5
 H:\visual studio\programacion 1\PiesOla\PiesOla\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
 H:\visual studio\programacion 1\PiesOla\PiesOla\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
 H:\visual studio\programacion 1\PiesOla\PiesOla\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
 H:\visual studio\programacion 1\PiesOla\PiesOla\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
-<<<<<<< HEAD
-H:\visual studio\programacion 1\PiesOla\PiesOla\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
 H:\visual studio\programacion 1\PiesOla\PiesOla\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
-H:\visual studio\programacion 1\PiesOla\PiesOla\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
 H:\visual studio\programacion 1\PiesOla\PiesOla\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
 H:\visual studio\programacion 1\PiesOla\PiesOla\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
 H:\visual studio\programacion 1\PiesOla\PiesOla\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
-H:\visual studio\programacion 1\PiesOla\PiesOla\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
-H:\visual studio\programacion 1\PiesOla\PiesOla\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
-H:\visual studio\programacion 1\PiesOla\PiesOla\bin\Debug\net5.0\SQLitePCLRaw.core.dll
-H:\visual studio\programacion 1\PiesOla\PiesOla\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
 H:\visual studio\programacion 1\PiesOla\PiesOla\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
-H:\visual studio\programacion 1\PiesOla\PiesOla\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
-H:\visual studio\programacion 1\PiesOla\PiesOla\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
-H:\visual studio\programacion 1\PiesOla\PiesOla\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
-H:\visual studio\programacion 1\PiesOla\PiesOla\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
-H:\visual studio\programacion 1\PiesOla\PiesOla\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
-H:\visual studio\programacion 1\PiesOla\PiesOla\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
-H:\visual studio\programacion 1\PiesOla\PiesOla\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
-H:\visual studio\programacion 1\PiesOla\PiesOla\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
-H:\visual studio\programacion 1\PiesOla\PiesOla\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
-H:\visual studio\programacion 1\PiesOla\PiesOla\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
-H:\visual studio\programacion 1\PiesOla\PiesOla\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
-H:\visual studio\programacion 1\PiesOla\PiesOla\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
-H:\visual studio\programacion 1\PiesOla\PiesOla\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
-H:\visual studio\programacion 1\PiesOla\PiesOla\obj\Debug\net5.0\PiesOla.csproj.AssemblyReference.cache
-H:\visual studio\programacion 1\PiesOla\PiesOla\obj\Debug\net5.0\PiesOla.GeneratedMSBuildEditorConfig.editorconfig
-H:\visual studio\programacion 1\PiesOla\PiesOla\obj\Debug\net5.0\PiesOla.AssemblyInfoInputs.cache
-H:\visual studio\programacion 1\PiesOla\PiesOla\obj\Debug\net5.0\PiesOla.AssemblyInfo.cs
-H:\visual studio\programacion 1\PiesOla\PiesOla\obj\Debug\net5.0\PiesOla.csproj.CoreCompileInputs.cache
-H:\visual studio\programacion 1\PiesOla\PiesOla\obj\Debug\net5.0\PiesOla.MvcApplicationPartsAssemblyInfo.cs
-H:\visual studio\programacion 1\PiesOla\PiesOla\obj\Debug\net5.0\PiesOla.MvcApplicationPartsAssemblyInfo.cache
-H:\visual studio\programacion 1\PiesOla\PiesOla\obj\Debug\net5.0\PiesOla.RazorAssemblyInfo.cache
-H:\visual studio\programacion 1\PiesOla\PiesOla\obj\Debug\net5.0\PiesOla.RazorAssemblyInfo.cs
-=======
 H:\visual studio\programacion 1\PiesOla\PiesOla\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-H:\visual studio\programacion 1\PiesOla\PiesOla\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
-H:\visual studio\programacion 1\PiesOla\PiesOla\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
-H:\visual studio\programacion 1\PiesOla\PiesOla\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
-H:\visual studio\programacion 1\PiesOla\PiesOla\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
 H:\visual studio\programacion 1\PiesOla\PiesOla\bin\Debug\net5.0\Microsoft.Identity.Client.dll
 H:\visual studio\programacion 1\PiesOla\PiesOla\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
 H:\visual studio\programacion 1\PiesOla\PiesOla\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
@@ -225,7 +158,6 @@ H:\visual studio\programacion 1\PiesOla\PiesOla\bin\Debug\net5.0\System.Composit
 H:\visual studio\programacion 1\PiesOla\PiesOla\bin\Debug\net5.0\System.Composition.Runtime.dll
 H:\visual studio\programacion 1\PiesOla\PiesOla\bin\Debug\net5.0\System.Composition.TypedParts.dll
 H:\visual studio\programacion 1\PiesOla\PiesOla\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
-H:\visual studio\programacion 1\PiesOla\PiesOla\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
 H:\visual studio\programacion 1\PiesOla\PiesOla\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
 H:\visual studio\programacion 1\PiesOla\PiesOla\bin\Debug\net5.0\System.Runtime.Caching.dll
 H:\visual studio\programacion 1\PiesOla\PiesOla\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
@@ -295,7 +227,6 @@ H:\visual studio\programacion 1\PiesOla\PiesOla\bin\Debug\net5.0\runtimes\win-ar
 H:\visual studio\programacion 1\PiesOla\PiesOla\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
 H:\visual studio\programacion 1\PiesOla\PiesOla\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
 H:\visual studio\programacion 1\PiesOla\PiesOla\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
->>>>>>> fd85ac4edece4c19c1eb24653db83cb3c0f43cb5
 H:\visual studio\programacion 1\PiesOla\PiesOla\obj\Debug\net5.0\staticwebassets\PiesOla.StaticWebAssets.Manifest.cache
 H:\visual studio\programacion 1\PiesOla\PiesOla\obj\Debug\net5.0\staticwebassets\PiesOla.StaticWebAssets.xml
 H:\visual studio\programacion 1\PiesOla\PiesOla\obj\Debug\net5.0\scopedcss\bundle\PiesOla.styles.css
@@ -315,12 +246,6 @@ H:\visual studio\programacion 1\PiesOla\PiesOla\obj\Debug\net5.0\PiesOla.RazorTa
 H:\visual studio\programacion 1\PiesOla\PiesOla\obj\Debug\net5.0\PiesOla.RazorTargetAssemblyInfo.cs
 H:\visual studio\programacion 1\PiesOla\PiesOla\obj\Debug\net5.0\PiesOla.Views.pdb
 H:\visual studio\programacion 1\PiesOla\PiesOla\obj\Debug\net5.0\PiesOla.csproj.CopyComplete
-<<<<<<< HEAD
-H:\visual studio\programacion 1\PiesOla\PiesOla\obj\Debug\net5.0\PiesOla.dll
-H:\visual studio\programacion 1\PiesOla\PiesOla\obj\Debug\net5.0\ref\PiesOla.dll
-H:\visual studio\programacion 1\PiesOla\PiesOla\obj\Debug\net5.0\PiesOla.pdb
-H:\visual studio\programacion 1\PiesOla\PiesOla\obj\Debug\net5.0\PiesOla.genruntimeconfig.cache
-=======
 H:\visual studio\programacion 1\PiesOla\PiesOla\obj\Debug\net5.0\PiesOla.genruntimeconfig.cache
 H:\visual studio\programacion 1\PiesOla\PiesOla\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
 H:\visual studio\programacion 1\PiesOla\PiesOla\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
@@ -433,5 +358,4 @@ C:\programacion1\PiesOla\PiesOla\PiesOla\obj\Debug\net5.0\Razor\Areas\Identity\P
 C:\programacion1\PiesOla\PiesOla\PiesOla\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
 C:\programacion1\PiesOla\PiesOla\PiesOla\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
 C:\programacion1\PiesOla\PiesOla\PiesOla\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
->>>>>>> Confirmacion-User
->>>>>>> fd85ac4edece4c19c1eb24653db83cb3c0f43cb5
+H:\visual studio\programacion 1\PiesOla\PiesOla\obj\Debug\net5.0\Razor\Views\Nosotros\Index.cshtml.g.cs

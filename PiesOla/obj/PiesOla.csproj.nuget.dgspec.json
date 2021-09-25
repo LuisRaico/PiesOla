@@ -1,7 +1,6 @@
 {
   "format": 1,
   "restore": {
-<<<<<<< HEAD
     "H:\\visual studio\\programacion 1\\PiesOla\\PiesOla\\PiesOla.csproj": {}
   },
   "projects": {
@@ -13,19 +12,6 @@
         "projectPath": "H:\\visual studio\\programacion 1\\PiesOla\\PiesOla\\PiesOla.csproj",
         "packagesPath": "C:\\Users\\crist\\.nuget\\packages\\",
         "outputPath": "H:\\visual studio\\programacion 1\\PiesOla\\PiesOla\\obj\\",
-=======
-    "C:\\programacion1\\PiesOla\\PiesOla\\PiesOla\\PiesOla.csproj": {}
-  },
-  "projects": {
-    "C:\\programacion1\\PiesOla\\PiesOla\\PiesOla\\PiesOla.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\programacion1\\PiesOla\\PiesOla\\PiesOla\\PiesOla.csproj",
-        "projectName": "PiesOla",
-        "projectPath": "C:\\programacion1\\PiesOla\\PiesOla\\PiesOla\\PiesOla.csproj",
-        "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
-        "outputPath": "C:\\programacion1\\PiesOla\\PiesOla\\PiesOla\\obj\\",
->>>>>>> fd85ac4edece4c19c1eb24653db83cb3c0f43cb5
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\crist\\AppData\\Roaming\\NuGet\\NuGet.Config"
