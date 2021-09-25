@@ -1,10 +1,6 @@
 {
   "version": 2,
-<<<<<<< HEAD
-  "dgSpecHash": "qpgOm3/HKvqZ2WEVZv9C/Ze72k15wymjFT1PAMtPBJ30B7VKfT3+Uc/g0ZikZrRIeX1ml3LzWDl/jRbzCEVxww==",
-=======
   "dgSpecHash": "WkRzTvBK1y86sWfrCnuPdrH+S++o72ZyfvfDywa+l6qoMqgaN6+pUP7rCN1puNFqU96X6PnEXlf1KNOeGdC/WQ==",
->>>>>>> Confirmacion-User
   "success": true,
   "projectFilePath": "C:\\programacion1\\PiesOla\\PiesOla\\PiesOla\\PiesOla.csproj",
   "expectedPackageFiles": [
@@ -144,5 +140,12 @@
     "C:\\Users\\USUARIO\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
     "C:\\Users\\USUARIO\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problema al leer el archivo de caché C:\\programacion1\\PiesOla\\PiesOla\\PiesOla\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

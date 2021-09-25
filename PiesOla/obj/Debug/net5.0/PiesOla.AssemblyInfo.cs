@@ -11,11 +11,7 @@ using System;
 using System.Reflection;
 
 [assembly: Microsoft.AspNetCore.Identity.UI.UIFrameworkAttribute("Bootstrap4")]
-<<<<<<< HEAD
-[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("aspnet-PiesOla-DB789AE2-6C45-4FE4-8B6D-0623C9AA1F77")]
-=======
 [assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("aspnet-trabajo-A0D6FE1F-B9F3-43C1-A8FB-A9809ABE54E9")]
->>>>>>> Confirmacion-User
 [assembly: System.Reflection.AssemblyCompanyAttribute("PiesOla")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]

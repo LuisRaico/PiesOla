@@ -12,9 +12,6 @@ namespace AspNetCore
     using Microsoft.AspNetCore.Mvc;
     using Microsoft.AspNetCore.Mvc.Rendering;
     using Microsoft.AspNetCore.Mvc.ViewFeatures;
-<<<<<<< HEAD
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"e8a704699820c151360d7ac5515024d23073660e", @"/Areas/Identity/Pages/_ViewStart.cshtml")]
-=======
 #nullable restore
 #line 1 "C:\programacion1\PiesOla\PiesOla\PiesOla\Areas\Identity\Pages\_ViewImports.cshtml"
 using Microsoft.AspNetCore.Identity;
@@ -38,7 +35,6 @@ using PiesOla.Areas.Identity.Pages;
 #nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"e8a704699820c151360d7ac5515024d23073660e", @"/Areas/Identity/Pages/_ViewStart.cshtml")]
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"19ce2d03104090d01894434ffeb93cdb560d1e0f", @"/Areas/Identity/Pages/_ViewImports.cshtml")]
->>>>>>> Confirmacion-User
     public class Areas_Identity_Pages__ViewStart : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<dynamic>
     {
         #pragma warning disable 1998
