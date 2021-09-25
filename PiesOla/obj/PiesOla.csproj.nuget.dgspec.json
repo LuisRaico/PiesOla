@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\programacion1\\PiesOla\\PiesOla\\PiesOla\\PiesOla.csproj": {}
+    "C:\\programacion1\\PiesOla\\PiesOla\\PiesOla\\PiesOla.csproj": {}
   },
   "projects": {
-    "c:\\programacion1\\PiesOla\\PiesOla\\PiesOla\\PiesOla.csproj": {
+    "C:\\programacion1\\PiesOla\\PiesOla\\PiesOla\\PiesOla.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\programacion1\\PiesOla\\PiesOla\\PiesOla\\PiesOla.csproj",
+        "projectUniqueName": "C:\\programacion1\\PiesOla\\PiesOla\\PiesOla\\PiesOla.csproj",
         "projectName": "PiesOla",
-        "projectPath": "c:\\programacion1\\PiesOla\\PiesOla\\PiesOla\\PiesOla.csproj",
+        "projectPath": "C:\\programacion1\\PiesOla\\PiesOla\\PiesOla\\PiesOla.csproj",
         "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
-        "outputPath": "c:\\programacion1\\PiesOla\\PiesOla\\PiesOla\\obj\\",
+        "outputPath": "C:\\programacion1\\PiesOla\\PiesOla\\PiesOla\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config"
