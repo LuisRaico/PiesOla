@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "d2wil7nzgkHfy1xTTp3ZdCttkm0/uEbXYfPV2XioPRVsW1vokOS5DwGbmnEya/Vct8cyFIrnUA2PFLzkOnG+/g==",
+  "dgSpecHash": "qpgOm3/HKvqZ2WEVZv9C/Ze72k15wymjFT1PAMtPBJ30B7VKfT3+Uc/g0ZikZrRIeX1ml3LzWDl/jRbzCEVxww==",
   "success": true,
-  "projectFilePath": "c:\\programacion1\\PiesOla\\PiesOla\\PiesOla\\PiesOla.csproj",
+  "projectFilePath": "C:\\programacion1\\PiesOla\\PiesOla\\PiesOla\\PiesOla.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USUARIO\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\USUARIO\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\5.0.8\\microsoft.aspnetcore.cryptography.internal.5.0.8.nupkg.sha512",
