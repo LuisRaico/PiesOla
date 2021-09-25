@@ -7554,19 +7554,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\crist\\.nuget\\packages\\": {}
+    "C:\\Users\\USUARIO\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\visual studio\\programacion 1\\PiesOla\\PiesOla\\PiesOla.csproj",
+      "projectUniqueName": "C:\\programacion1\\PiesOla\\PiesOla\\PiesOla\\PiesOla.csproj",
       "projectName": "PiesOla",
-      "projectPath": "H:\\visual studio\\programacion 1\\PiesOla\\PiesOla\\PiesOla.csproj",
-      "packagesPath": "C:\\Users\\crist\\.nuget\\packages\\",
-      "outputPath": "H:\\visual studio\\programacion 1\\PiesOla\\PiesOla\\obj\\",
+      "projectPath": "C:\\programacion1\\PiesOla\\PiesOla\\PiesOla\\PiesOla.csproj",
+      "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
+      "outputPath": "C:\\programacion1\\PiesOla\\PiesOla\\PiesOla\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\crist\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
