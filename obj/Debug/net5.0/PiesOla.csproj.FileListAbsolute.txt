@@ -1,9 +1,0 @@
-C:\Users\dayan\Desktop\Poryecto-PiesOla\PiesOla\obj\Debug\net5.0\PiesOla.csproj.AssemblyReference.cache
-C:\Users\dayan\Desktop\Poryecto-PiesOla\PiesOla\obj\Debug\net5.0\PiesOla.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\dayan\Desktop\Poryecto-PiesOla\PiesOla\obj\Debug\net5.0\PiesOla.AssemblyInfoInputs.cache
-C:\Users\dayan\Desktop\Poryecto-PiesOla\PiesOla\obj\Debug\net5.0\PiesOla.AssemblyInfo.cs
-C:\Users\dayan\Desktop\Poryecto-PiesOla\PiesOla\obj\Debug\net5.0\PiesOla.csproj.CoreCompileInputs.cache
-C:\Users\dayan\Desktop\Poryecto-PiesOla\PiesOla\obj\Debug\net5.0\PiesOla.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\dayan\Desktop\Poryecto-PiesOla\PiesOla\obj\Debug\net5.0\PiesOla.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\dayan\Desktop\Poryecto-PiesOla\PiesOla\obj\Debug\net5.0\PiesOla.RazorAssemblyInfo.cache
-C:\Users\dayan\Desktop\Poryecto-PiesOla\PiesOla\obj\Debug\net5.0\PiesOla.RazorAssemblyInfo.cs

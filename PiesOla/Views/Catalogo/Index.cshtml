@@ -1,0 +1,44 @@
+@model IEnumerable<PiesOla.Models.Producto>
+@{
+    ViewData["Title"] = "Catalogo";
+}
+
+<section id="catalogue" class="catalogue section-bg">
+      <div class="container">
+
+        <div class="section-title">
+          <h2 data-aos="fade-in">Nuestras Medias</h2>
+          <p data-aos="fade-in">Las mejores medias</p>
+        </div>
+
+
+    <div class="row catalogue-container" data-aos="fade-up">
+
+	@foreach (var item in Model)
+
+
+
+	{
+		<div class="col-lg-4 catalogue-item filter-app">
+            <div style="text-align:center;" >
+        		<img src="@item.imagen" class="card-img-top" alt="..." style=" height: 500px;">
+            </div>
+			<div class="catalogo" style="height: 250px;">
+				<div style="text-align:center;" class="card-body" >
+					<h5 class="card-title" style="color:#38D4F3;">@Html.DisplayFor(modelItem => item.Marca)</h5>
+						<p class="card-text">@Html.DisplayFor(modelItem => item.Descripcion)</p>
+				<div style="margin-top: 30px;">
+						<p style="text-align: center;"><a class="btn btn-info" disabled> S/ @Html.DisplayFor(modelItem => item.Precio)</a></p>
+						<div class="col" style="text-align: center;">
+              <a asp-action="Add" asp-route-id="@item.ID" class="btn btn-info"> Agregar</a>
+              <a asp-action="Info" asp-route-id="@item.ID" class="btn btn-info"> Descripcion</a>
+						</div>
+				</div>
+				</div>
+			</div>
+    </div>
+	}
+
+
+    </section>
+

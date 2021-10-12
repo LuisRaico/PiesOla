@@ -12,5 +12,8 @@ namespace PiesOla.Data
             : base(options)
         {
         }
+        public DbSet<PiesOla.Models.Contactanos> DataContactanos { get; set; }
+         public DbSet<PiesOla.Models.Producto> Productos { get; set; }
+             public DbSet<PiesOla.Models.Proforma> DataProforma { get; set; }
     }
 }
