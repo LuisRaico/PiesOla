@@ -47,7 +47,7 @@ namespace PiesOla.Controllers
         {
             _context.Add(objContactanos);
             _context.SaveChanges();
-            ViewData["Message"] = "El Mensaje se envio con exito :)";
+            ViewData["Message"] = "El Mensaje se envio con exito ";
             return View();
         }
          public async Task<IActionResult> Delete(int? id)
