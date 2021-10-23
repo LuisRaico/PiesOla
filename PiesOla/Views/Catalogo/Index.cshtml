@@ -1,8 +1,9 @@
 @model IEnumerable<PiesOla.Models.Producto>
 @{
     ViewData["Title"] = "Catalogo";
+	
 }
-<section id="catalogue" class="catalogue section-bg" >
+<section id="catalogue" class="catalogue section-bg" style="background-color: white;" >
       <div class="container">
 
         <div class="section-title">
@@ -19,16 +20,16 @@
 
 	{
 		<div class="col-lg-4 catalogue-item filter-app">
-            <div style="text-align:center;" >
-        		<img src="@item.imagen" class="card-img-top" alt="..." style=" height: 500px;">
+            <div style="text-align:center; text-color:white;" >
+        		<img src="@item.imagen" class="card-img-top" alt="..." style=" height: 300px; text-color:white;">
             </div>
-			<div class="catalogo" style="height: 250px;">
-				<div style="text-align:center;" class="card-body" >
-					<h5 class="card-title" style="color:#38D4F3;">@Html.DisplayFor(modelItem => item.Marca)</h5>
-						<p class="card-text">@Html.DisplayFor(modelItem => item.Descripcion)</p>
-				<div style="margin-top: 30px;">
-						<p style="text-align: center;"><a class="btn btn-info" disabled> S/ @Html.DisplayFor(modelItem => item.Precio)</a></p>
-						<div class="col" style="text-align: center;">
+			<div class="catalogo" style="height: 250px;  text-color:white;">
+				<div style="text-align:center; color:black;  text-color:white;" class="card-body" >
+					<h5 class="card-title" style="text-color:#38D4F3;">@Html.DisplayFor(modelItem => item.Descripcion)</h5>
+						<p class="card-text">@Html.DisplayFor(modelItem => item.Material)</p>
+				<div style="margin-top: 30px; background-color:white;  text-color:white;">
+						<p style="text-align: center; text-color:white;"><a class="btn btn-info" disabled> S/ @Html.DisplayFor(modelItem => item.Precio)</a></p>
+						<div class="col" style="text-align: center; text-color:white;">
               <a asp-action="Add" asp-route-id="@item.ID" class="btn btn-info"> Agregar</a>
               <a asp-action="Info" asp-route-id="@item.ID" class="btn btn-info"> Descripcion</a>
 						</div>
