@@ -2,7 +2,7 @@
 @{
     ViewData["Title"] = "Catalogo";
 }
-<body style="background-image:url(/img/fondop3.jpg); background-size: cover;
+<body style="background:#F7C2F2; background-size: cover;
   background-repeat: no-repeat;
   margin: 0;
   height: 100vh;"> 
@@ -28,12 +28,12 @@
             </div>
 			<div class="catalogo" style="height: 250px;">
 				<div style="text-align:center;" class="card-body" >
-					<h5 class="card-title" style="color:#38D4F3;">@Html.DisplayFor(modelItem => item.Marca)</h5>
+					<h5 class="card-title" style="color:black;">@Html.DisplayFor(modelItem => item.Marca)</h5>
 						<p class="card-text">@Html.DisplayFor(modelItem => item.Descripcion)</p>
-				<div style="margin-top: 30px;">
+				<div style="margin-top: 30px; color:white;">
 						<p style="text-align: center;"><a class="btn btn-info" disabled> S/ @Html.DisplayFor(modelItem => item.Precio)</a></p>
-						<div class="col" style="text-align: center;">
-              <a asp-action="Add" asp-route-id="@item.ID" class="btn btn-info"> Agregar</a>
+						<div class="col" style="text-align: center; color:white;">
+              <a asp-action="Add" asp-route-id="@item.ID" class="btn btn-info" style="color:white;"> Agregar</a>
               <a asp-action="Info" asp-route-id="@item.ID" class="btn btn-info"> Descripcion</a>
 						</div>
 				</div>
