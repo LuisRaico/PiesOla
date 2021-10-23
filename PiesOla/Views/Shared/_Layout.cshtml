@@ -34,8 +34,11 @@
             @RenderBody()
         </main>
     </div>
+    <div class="container">
 
+    </div>
     <footer class="border-top footer text-muted">
+        <div>
         <div class="container">
             &copy; 2021 - Proyecto_final - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
         </div>
@@ -44,5 +47,7 @@
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>
     @await RenderSectionAsync("Scripts", required: false)
+    
 </body>
+
 </html>
