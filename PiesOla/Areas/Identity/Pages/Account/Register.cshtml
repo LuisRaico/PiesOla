@@ -1,12 +1,9 @@
 @page
 @model RegisterModel
 @{
-    ViewData["Title"] = "Registrarse";
+    ViewData["Title"] = "Registrate Aquí";
 }
-<body style="background-image:url(/img/fondop2.jpg); background-size: cover;
-  background-repeat: no-repeat;
-  margin: 0;
-  height: 100vh; text-align: center;">
+<body style="background-color:#F7C2F2 ;">
     
 
 <h1>@ViewData["Title"]</h1>
@@ -14,21 +11,21 @@
 <div class="row">
     <div class="col-md-12">
         <form asp-route-returnUrl="@Model.ReturnUrl" method="post">
-            <h4>Crear tu cuenta .</h4>
+    
             <hr />
             <div asp-validation-summary="All" class="text-danger"></div>
             <div class="form-group">
-                <label asp-for="Input.Email" class=""></label>
+                <label asp-for="Input.Email" >Email:</label>
                 <input asp-for="Input.Email" class="form-control" />
                 <span asp-validation-for="Input.Email" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <label asp-for="Input.Password">Contraseña</label>
+                <label asp-for="Input.Password">Contraseña:</label>
                 <input asp-for="Input.Password" class="form-control" />
                 <span asp-validation-for="Input.Password" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <label asp-for="Input.ConfirmPassword">Confirmar Contraseña</label>
+                <label asp-for="Input.ConfirmPassword">Confirma tu Contraseña:</label>
                 <input asp-for="Input.ConfirmPassword" class="form-control" />
                 <span asp-validation-for="Input.ConfirmPassword" class="text-danger"></span>
             </div>

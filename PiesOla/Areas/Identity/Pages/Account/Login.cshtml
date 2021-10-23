@@ -1,9 +1,6 @@
 @page
 @model LoginModel
-<body style="background-image:url(/img/fondop2.jpg); background-size: cover;
-  background-repeat: no-repeat;
-  margin: 0;
-  height: 100vh; text-align: center;">
+<body style="background-color:#F7C2F2 ;">
     
 
 @{
@@ -19,12 +16,12 @@
                 <hr />
                 <div asp-validation-summary="All" class="text-danger"></div>
                 <div class="form-group">
-                    <label asp-for="Input.Email">Correo</label>
+                    <label asp-for="Input.Email">Correo:</label>
                     <input asp-for="Input.Email" class="form-control" />
                     <span asp-validation-for="Input.Email" class="text-danger"></span>
                 </div>
                 <div class="form-group">
-                    <label asp-for="Input.Password">Contraseña</label>
+                    <label asp-for="Input.Password">Contraseña:</label>
                     <input asp-for="Input.Password" class="form-control" />
                     <span asp-validation-for="Input.Password" class="text-danger"></span>
                 </div>
@@ -44,7 +41,7 @@
                         <a id="forgot-password" asp-page="./ForgotPassword">¿Olvidaste tu contraseña?</a>
                     </p>
                     <p>
-                        <a asp-page="./Register" asp-route-returnUrl="@Model.ReturnUrl">registrar como usuario nuevo</a>
+                        <a asp-page="./Register" asp-route-returnUrl="@Model.ReturnUrl">Registrar Nuevo Usuario</a>
                     </p>
                     <p>
                         <a id="resend-confirmation" asp-page="./ResendEmailConfirmation">Reenviar confirmación por correo electrónico </a>
