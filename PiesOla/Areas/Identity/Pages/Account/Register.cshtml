@@ -3,7 +3,10 @@
 @{
     ViewData["Title"] = "Registrarse";
 }
-<body style="background: #58d410; text-align: center; "  >
+<body style="background-image:url(/img/fondop2.jpg); background-size: cover;
+  background-repeat: no-repeat;
+  margin: 0;
+  height: 100vh; text-align: center;">
     
 
 <h1>@ViewData["Title"]</h1>
@@ -54,7 +57,7 @@
                             <p>
                                 @foreach (var provider in Model.ExternalLogins)
                                 {
-                                    <button type="submit" class="btn btn-primary" name="provider" value="@provider.Name" title="Log in using your @provider.DisplayName account">@provider.DisplayName</button>
+                                    <button type="submit" class="btn btn-primary" name="provider" value="@provider.Name" title="The Password field is required. using your @provider.DisplayName account">@provider.DisplayName</button>
                                 }
                             </p>
                         </div>
