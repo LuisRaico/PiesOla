@@ -22,11 +22,11 @@ jobs:
 
     - name: Docker build
       run: docker login --username=_ --password=$HEROKU_API_KEY registry.heroku.com
-      working-directory: PiesOla
+      
 
 
     - name: Publish
       run: |
         heroku container:push web -a $HEROKU_APP_NAME
         heroku container:release web -a $HEROKU_APP_NAME
-      working-directory: PiesOla
+      
