@@ -1,36 +1,32 @@
-# This is a basic workflow to help you get started with Actions
-
-name: CI
-
-# Controls when the workflow will run
 on:
-  # Triggers the workflow on push or pull request events but only for the main branch
   push:
-    branches: [ main ]
-  pull_request:
-    branches: [ main ]
+    branches:
+#NOMBRE DE LA RAMA DEBE CONINCIDER CON DONDE ESTAS COMITEANDO (master|main)
+      - main
 
-  # Allows you to run this workflow manually from the Actions tab
-  workflow_dispatch:
+name: Deploy to heroku
 
-# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+env:
+#REGISTRARLO EN GITHUB\SETTINGS\SECRETS (EL VALOR VIENE HEROKU\ACCOUNT SETTINGS\APPLICATIONS)
+  HEROKU_API_KEY: ${{ secrets.HEROKU_API_KEY }}
+#CAMBIAR AQUI NOMBRE DEL APLICATIVO EN HEROKU EN EL DASHBOARD
+  HEROKU_APP_NAME: ${{ 'app-piesola' }}
+
 jobs:
-  # This workflow contains a single job called "build"
-  build:
-    # The type of runner that the job will run on
+  build_webapp:
     runs-on: ubuntu-latest
-
-    # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - uses: actions/checkout@v2
 
-      # Runs a single command using the runners shell
-      - name: Run a one-line script
-        run: echo Hello, world!
+    - name: Checkout
+      uses: actions/checkout@v2
 
-      # Runs a set of commands using the runners shell
-      - name: Run a multi-line script
-        run: |
-          echo Add other actions to build,
-          echo test, and deploy your project.
+    - name: Docker build
+      run: docker login --username=_ --password=$HEROKU_API_KEY registry.heroku.com
+      working-directory: PiesOla
+
+
+    - name: Publish
+      run: |
+        heroku container:push web -a $HEROKU_APP_NAME
+        heroku container:release web -a $HEROKU_APP_NAME
+      working-directory: PiesOla
